@@ -1,0 +1,23 @@
+# ビルド出力
+bin/
+obj/
+publish/
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+*.user
+*.suo
+.vscode/
+
+# テスト・プロファイル結果
+TestResults/
+*.log
+
+# NuGet
+*.nupkg
+packages/
+
+# Windows
+Thumbs.db
+Desktop.ini
